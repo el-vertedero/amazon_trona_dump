@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!--
+   Copyright (c) 2022 - 2024 Amazon.com, Inc. or its affiliates.  All rights reserved.
+   PROPRIETARY/CONFIDENTIAL.  USE IS SUBJECT TO LICENSE TERMS.
+-->
+<!--
+    This file contains dangerous permissions to be granted by default
+    for Gallery app.
+-->
+<exceptions>
+    <exception package="com.android.gallery3d">
+        <!-- Read Child Profile Content -->
+        <permission name="android.permission.READ_EXTERNAL_STORAGE" fixed="true"/>
+        <!-- Saving Edited Photos to Their Original Directories -->
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" fixed="true"/>
+    </exception>
+</exceptions>
