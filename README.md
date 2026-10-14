@@ -1,0 +1,14 @@
+# trona-user 9 PS7331.4463N 0031575863040 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8183
+- codename: trona
+- flavor: trona-user
+- release: 9
+- id: PS7331.4463N
+- incremental: 0031575863172
+- tags: amz-p,release-keys
+- fingerprint: Amazon/trona/trona:9/PS7331.4463N/0031575863040:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: trona-user-9-PS7331.4463N-0031575863040-amz-p,release-keys
+- repo: amazon_trona_dump

@@ -1,0 +1,5 @@
+system/system/priv-app/com.amazon.alexa.multimodal.gemini/com.amazon.alexa.multimodal.gemini.apk.zst
+system/system/app/AmazonWebView/AmazonWebView.apk.zst
+system/system/priv-app/com.amazon.mp3/com.amazon.mp3.apk.zst
+system/system/priv-app/com.amazon.kindle/com.amazon.kindle.apk.zst
+system/system/priv-app/com.amazon.cloud9/com.amazon.cloud9.apk.zst
